@@ -1,5 +1,5 @@
 
-# 1.0.0.9000
+# 2.0.0
 
 * Use the `processx` package to start R processes
 
